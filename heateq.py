@@ -2,6 +2,10 @@ import numpy as np
 import pygame
 
 
+#################################################################
+##TODO: VECTORIZE! THIS IS WAY TOO SLOW. SEE BRANCH VECTORED.
+#################################################################
+
 # Important class definitions
 
 class Cell:
